@@ -54,3 +54,10 @@ dkms.conf
 # vscode
 .devcontainer
 .vscode
+
+# 9cc
+*~
+*.o
+tmp*
+a.out
+9cc
